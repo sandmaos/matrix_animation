@@ -1,1 +1,1 @@
-This is a matrix simulating html/css/js program
+This is a matrix simulating html/css/js system
